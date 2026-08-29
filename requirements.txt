@@ -3,3 +3,4 @@ requests
 Werkzeug
 python-dotenv
 pypdf
+gunicorn
